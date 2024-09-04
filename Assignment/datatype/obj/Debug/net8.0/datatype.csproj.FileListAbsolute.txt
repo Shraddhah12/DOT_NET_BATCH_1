@@ -1,0 +1,14 @@
+C:\Users\lenovo\OneDrive\Desktop\c#\datatype\obj\Debug\net8.0\datatype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\c#\datatype\obj\Debug\net8.0\datatype.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\c#\datatype\obj\Debug\net8.0\datatype.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\c#\datatype\obj\Debug\net8.0\datatype.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\c#\datatype\bin\Debug\net8.0\datatype.exe
+C:\Users\lenovo\OneDrive\Desktop\c#\datatype\bin\Debug\net8.0\datatype.deps.json
+C:\Users\lenovo\OneDrive\Desktop\c#\datatype\bin\Debug\net8.0\datatype.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\c#\datatype\bin\Debug\net8.0\datatype.dll
+C:\Users\lenovo\OneDrive\Desktop\c#\datatype\bin\Debug\net8.0\datatype.pdb
+C:\Users\lenovo\OneDrive\Desktop\c#\datatype\obj\Debug\net8.0\datatype.dll
+C:\Users\lenovo\OneDrive\Desktop\c#\datatype\obj\Debug\net8.0\refint\datatype.dll
+C:\Users\lenovo\OneDrive\Desktop\c#\datatype\obj\Debug\net8.0\datatype.pdb
+C:\Users\lenovo\OneDrive\Desktop\c#\datatype\obj\Debug\net8.0\datatype.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Desktop\c#\datatype\obj\Debug\net8.0\ref\datatype.dll
