@@ -1,0 +1,14 @@
+C:\Users\lenovo\OneDrive\Desktop\c#\dynamicArray\bin\Debug\net8.0\dynamicArray.exe
+C:\Users\lenovo\OneDrive\Desktop\c#\dynamicArray\bin\Debug\net8.0\dynamicArray.deps.json
+C:\Users\lenovo\OneDrive\Desktop\c#\dynamicArray\bin\Debug\net8.0\dynamicArray.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\c#\dynamicArray\bin\Debug\net8.0\dynamicArray.dll
+C:\Users\lenovo\OneDrive\Desktop\c#\dynamicArray\bin\Debug\net8.0\dynamicArray.pdb
+C:\Users\lenovo\OneDrive\Desktop\c#\dynamicArray\obj\Debug\net8.0\dynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\c#\dynamicArray\obj\Debug\net8.0\dynamicArray.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\c#\dynamicArray\obj\Debug\net8.0\dynamicArray.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\c#\dynamicArray\obj\Debug\net8.0\dynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\c#\dynamicArray\obj\Debug\net8.0\dynamicArray.dll
+C:\Users\lenovo\OneDrive\Desktop\c#\dynamicArray\obj\Debug\net8.0\refint\dynamicArray.dll
+C:\Users\lenovo\OneDrive\Desktop\c#\dynamicArray\obj\Debug\net8.0\dynamicArray.pdb
+C:\Users\lenovo\OneDrive\Desktop\c#\dynamicArray\obj\Debug\net8.0\dynamicArray.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Desktop\c#\dynamicArray\obj\Debug\net8.0\ref\dynamicArray.dll
