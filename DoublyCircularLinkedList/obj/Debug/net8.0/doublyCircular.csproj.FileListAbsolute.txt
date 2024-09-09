@@ -1,0 +1,14 @@
+C:\Users\lenovo\OneDrive\Desktop\c#\doublyCircularList\obj\Debug\net8.0\doublyCircular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Desktop\c#\doublyCircularList\obj\Debug\net8.0\doublyCircular.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\c#\doublyCircularList\obj\Debug\net8.0\doublyCircular.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Desktop\c#\doublyCircularList\obj\Debug\net8.0\doublyCircular.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Desktop\c#\doublyCircularList\obj\Debug\net8.0\doublyCircular.dll
+C:\Users\lenovo\OneDrive\Desktop\c#\doublyCircularList\obj\Debug\net8.0\doublyCircular.pdb
+C:\Users\lenovo\OneDrive\Desktop\c#\doublyCircularList\bin\Debug\net8.0\doublyCircular.exe
+C:\Users\lenovo\OneDrive\Desktop\c#\doublyCircularList\bin\Debug\net8.0\doublyCircular.deps.json
+C:\Users\lenovo\OneDrive\Desktop\c#\doublyCircularList\bin\Debug\net8.0\doublyCircular.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Desktop\c#\doublyCircularList\bin\Debug\net8.0\doublyCircular.dll
+C:\Users\lenovo\OneDrive\Desktop\c#\doublyCircularList\bin\Debug\net8.0\doublyCircular.pdb
+C:\Users\lenovo\OneDrive\Desktop\c#\doublyCircularList\obj\Debug\net8.0\refint\doublyCircular.dll
+C:\Users\lenovo\OneDrive\Desktop\c#\doublyCircularList\obj\Debug\net8.0\doublyCircular.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Desktop\c#\doublyCircularList\obj\Debug\net8.0\ref\doublyCircular.dll
